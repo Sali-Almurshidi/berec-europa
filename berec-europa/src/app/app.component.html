@@ -1,0 +1,19 @@
+ <div class="">
+    <ul class="">
+      <li *ngFor="let tab of tabOptions"
+          class="tab-bar__li tab-bar__li-- tab-bar__li--bold mr--xs"
+          [ngClass]="{'active':currentTab===tab}"
+          (click)="toggleTabs(tab)">
+        <a href="javascript:void(0)"
+           class="list-unstyled">{{tab}}</a>
+      </li>
+    </ul>
+  </div>
+<app-country-information class="" *ngIf="currentTab === 'CountryInformation'">
+</app-country-information>
+
+<app-emergency-services class="" *ngIf="currentTab === 'EmergencyServices'">
+</app-emergency-services>
+
+<app-public-warning-system class="" *ngIf="currentTab === 'PublicWarningSystem'">
+</app-public-warning-system>

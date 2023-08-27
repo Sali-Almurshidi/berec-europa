@@ -1,0 +1,562 @@
+[
+  {
+    "country": "AT",
+    "means_of_access": "Emergency calls (voice)",
+    "em_description": "112 European emergency number (Police). 122 Fire brigade. 144 Ambulance. 140 Mountain rescue",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "AT",
+    "means_of_access": "Emergency applications",
+    "em_description": "112 European emergency number (Police). 122 Fire brigade. 144 Ambulance. 140 Mountain rescue",
+    "download_link": "<a href=\"https://app.dec112.at/\">https://app.dec112.at/</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "AT",
+    "means_of_access": "Messaging",
+    "em_description": "text based emergency call",
+    "download_link": "<a href=\"https://app.dec112.at/\">https://app.dec112.at/</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "BE",
+    "means_of_access": "Messaging",
+    "em_description": "Texting to urgent medical assistance and texting to urgent police assistance",
+    "download_link": "",
+    "additional_information": "4-digit numbers are used , distributed through deaf- and hearing impaired representative organisations to their membership or through requesting the information from the emergency service (use contacts mentioned on the website) or 112@ibz.fgov.be , information --&gt; https://www.112.be/"
+  },
+  {
+    "country": "BE",
+    "means_of_access": "Messaging",
+    "em_description": "Application &quot;App 112 BE&quot; allowing access to urgent medical assistance, urgent police assistance and fire department , has a chat-function for deaf and hearing impaired and speech impaired.",
+    "download_link": "",
+    "additional_information": "The app has enhanced location (using GNSS) , allows for communicating additional (medical) information when emergency communication is set up. &quot;app store&quot; or &quot;play store&quot; , enter &quot;app 112 be&quot; as search item , download and register."
+  },
+  {
+    "country": "BG",
+    "means_of_access": "Emergency applications",
+    "em_description": "Mobile application for Android platform",
+    "download_link": "<a href=\"https://play.google.com/store/apps/details?id=bg.mvr.help112\">https://play.google.com/store/apps/details?id=bg.mvr.help112</a>",
+    "additional_information": "The service is free of charge for the citizens. The application provides to Bulgarian and foreign citizens with hearing and/or speech disabilities on the territory of the Republic of Bulgaria a quick and easy access to the 112 Emergency number. It is necessary that the users register into the application by following the registration steps. Once the registration is active, the users can sign in the application, and in case of emergency to make a connection (establish a chat session) with an operator of the 112 Emergency number."
+  },
+  {
+    "country": "BG",
+    "means_of_access": "Emergency applications",
+    "em_description": "Mobile application for  iOS platform",
+    "download_link": "<a href=\"https://apps.apple.com/bg/app/112-bulgaria/id1450618524\">https://apps.apple.com/bg/app/112-bulgaria/id1450618524</a>",
+    "additional_information": "The service is free of charge for the citizens. The application provides to Bulgarian and foreign citizens with hearing and/or speech disabilities on the territory of the Republic of Bulgaria a quick and easy access to the 112 Emergency number. It is necessary that the users register into the application by following the registration steps. Once the registration is active, the users can sign in the application, and in case of emergency to make a connection (establish a chat session) with an operator of the 112 Emergency number."
+  },
+  {
+    "country": "BG",
+    "means_of_access": "Emergency applications",
+    "em_description": "Mobile application for a web based web browser application for stationary and mobile computers.",
+    "download_link": "<a href=\"https://112.mvr.bg/#/sign-in\">https://112.mvr.bg/#/sign-in</a>",
+    "additional_information": "The service is free of charge for the citizens. The application provides to Bulgarian and foreign citizens with hearing and/or speech disabilities on the territory of the Republic of Bulgaria a quick and easy access to the 112 Emergency number. It is necessary that the users register into the application by following the registration steps. Once the registration is active, the users can sign in the application, and in case of emergency to make a connection (establish a chat session) with an operator of the 112 Emergency number."
+  },
+  {
+    "country": "CZ",
+    "means_of_access": "Messaging",
+    "em_description": "Emergency SMS for roaming end-users will be available on a dedicated long number (+420 720 000 112) in September 2023.",
+    "download_link": "",
+    "additional_information": "Emergency SMS for end-users roaming will be available provided that outgoing SMS are not blocked by the service provider for objective technical reasons and a SIM card is inserted in the end device."
+  },
+  {
+    "country": "CZ",
+    "means_of_access": "Emergency calls (voice)",
+    "em_description": "112 Single European Emergency Number. 150 Fire Brigade. 155 Emergency Medical Service (Ambulance). 158 Police",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "CY",
+    "means_of_access": "Emergency calls (voice)",
+    "em_description": "Voice Calls to 112 (Police, Ambulance and Fire Department)",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "DE",
+    "means_of_access": "Emergency Calls (Voice)",
+    "em_description": "110",
+    "download_link": "",
+    "additional_information": "national emergency number for emergencies requiring the police"
+  },
+  {
+    "country": "DE",
+    "means_of_access": "Emergency Calls (Voice)",
+    "em_description": "112",
+    "download_link": "",
+    "additional_information": "single european emergency number"
+  },
+  {
+    "country": "DK",
+    "means_of_access": "Messaging",
+    "em_description": "Long number for persons with disabilities allowing them to text the PSAP instead of calling. ",
+    "download_link": "",
+    "additional_information": "The long number is not made public but informed via a handicap organisation upon request. Therefore, while technically usable by roaming customers, the long number is practically not available to roaming customers at present due to the request process and lack of publicity surrounding the long number.   "
+  },
+  {
+    "country": "EE",
+    "means_of_access": "Emergency Calls (Voice)",
+    "em_description": "112 European emergency number",
+    "download_link": "",
+    "additional_information": "In addition to 112 domestic numbers, the Emergency Centre has an emergency number 6000112, which can be called from outside Estonia. "
+  },
+  {
+    "country": "EE",
+    "means_of_access": "Emergency Calls (Voice)",
+    "em_description": "The Emergency Centre also operates a 24/7 national information telephone number 1247, which offers information and advice in situations where life, health and property are not at risk.",
+    "download_link": "",
+    "additional_information": " This short number also has a long number 6001247 for calling from abroad."
+  },
+  {
+    "country": "ES",
+    "means_of_access": "Emergency applications",
+    "em_description": "A video call via an App, PC or other means is stablished with an interpreter, who in turn calls appropriate PSAP. Chat is also possible. More information at https://svisual.org/indexSSL.html",
+    "download_link": "<a href=\"https://play.google.com/store/apps/details?id=com.CESTEL.FCNSEMobileAppDroid&amp;hl=es\">https://play.google.com/store/apps/details?id=com.CESTEL.FCNSEMobileAppDroid&amp;hl…</a>",
+    "additional_information": "Android, videocalls"
+  },
+  {
+    "country": "ES",
+    "means_of_access": "Emergency applications",
+    "em_description": "A video call via an App, PC or other means is stablished with an interpreter, who in turn calls appropriate PSAP. Chat is also possible. More information at https://svisual.org/indexSSL.html",
+    "download_link": "<a href=\"https://apps.apple.com/es/app/svisual/id600574299\">https://apps.apple.com/es/app/svisual/id600574299</a>",
+    "additional_information": "Apple, videocall"
+  },
+  {
+    "country": "ES",
+    "means_of_access": "Emergency applications",
+    "em_description": "An app allows to report incident regarding disabled end-users; conversation follows as chat. More information at https://alertcops.ses.mir.es/publico/alertcops/",
+    "download_link": "<a href=\"https://play.google.com/store/apps/details?id=com.alertcops4.app&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1\">https://play.google.com/store/apps/details?id=com.alertcops4.app&amp;pcampaignid=pc…</a>",
+    "additional_information": "Android, calls (voice) s and chat"
+  },
+  {
+    "country": "ES",
+    "means_of_access": "Emergency applications",
+    "em_description": "An app allows to report incident regarding disabled end-users; conversation follows as chat. More information at https://alertcops.ses.mir.es/publico/alertcops/",
+    "download_link": "<a href=\"https://apps.apple.com/es/app/alertcops-5-0/id1273718252?ign-itscg=30200&amp;ign-itsct=apps_box\">https://apps.apple.com/es/app/alertcops-5-0/id1273718252?ign-itscg=30200&amp;ign-it…</a>",
+    "additional_information": "Apple, calls (voice) and chat"
+  },
+  {
+    "country": "FI",
+    "means_of_access": "Emergency applications",
+    "em_description": "112 Suomi application allows users to make emergency voice calls. ",
+    "download_link": "<a href=\"https://112.fi/en/112-suomi-application\">https://112.fi/en/112-suomi-application</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "FI",
+    "means_of_access": "Messaging",
+    "em_description": "Available for all user groups with Finnish mobile connections, roaming access under development",
+    "download_link": "",
+    "additional_information": "SMS messages are allowed for preregistered users to the number 112."
+  },
+  {
+    "country": "FI",
+    "means_of_access": "Emergency Calls (Voice)",
+    "em_description": "112 European emergency number",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "FR",
+    "means_of_access": "Emergency applications",
+    "em_description": "App voice. App messaging. App real time text. App total conversation",
+    "download_link": "<a href=\"https://play.google.com/store/apps/details?id=fr.urgence114.urgence114&amp;utm_source=site&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1\">https://play.google.com/store/apps/details?id=fr.urgence114.urgence114&amp;utm_sour…</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "FR",
+    "means_of_access": "Emergency applications",
+    "em_description": "App voice. App messaging. App real time text. App total conversation",
+    "download_link": "<a href=\"https://apps.apple.com/fr/app/114/id1437499014\">https://apps.apple.com/fr/app/114/id1437499014</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "FR",
+    "means_of_access": "Other",
+    "em_description": "Real time text. Total conversation",
+    "download_link": "<a href=\"https://www.info.urgence114.fr/\">https://www.info.urgence114.fr/</a>",
+    "additional_information": "website / browser"
+  },
+  {
+    "country": "GR",
+    "means_of_access": "Emergency Calls (Voice)",
+    "em_description": "Voice call to 112. Other emergency numbers are also available. ",
+    "download_link": "<a href=\"https://civilprotection.gov.gr/112\">https://civilprotection.gov.gr/112</a>",
+    "additional_information": "Additionaly to transfering calls depending on the case to Police, Fire brigade, Emergency Medical Services, Hellenic Coast Guard, 112 also transfers the calls to European Hotline for Missing Children. "
+  },
+  {
+    "country": "GR",
+    "means_of_access": "Messaging",
+    "em_description": "Email - European Emergency Number 112",
+    "download_link": "",
+    "additional_information": "mail to contact@112.gov.gr, or contact@112.gr . The PSAP doesn&#039;t automatically receive the sender&#039;s location.The sender should state his/her location in the email. No pre-registration is needed."
+  },
+  {
+    "country": "HR",
+    "means_of_access": "Messaging",
+    "em_description": "Emergency SMS for roaming end-users are available on a dedicated long number (+385 98 8100 112).",
+    "download_link": "",
+    "additional_information": "The SMS from any part of the teritory of Croatia is received at the Civil Protection Operations Centre. It is responsible to comunicate with SMS end-user and  territorially responsible PSAP which alerts emergency services. Croatian telecom providers have informed their roaming partners that calls / messages to 112 (full number +385988100112) in Croatia are not charged, but the billing still depends on the roaming partner. "
+  },
+  {
+    "country": "HR",
+    "means_of_access": "Emergency Calls (Voice)",
+    "em_description": "112 - European emergency number",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "HU",
+    "means_of_access": "Emergency Calls (Voice)",
+    "em_description": "Emergency Calls (Voice) call to 112: from landline and mobile phones to contact any emergency service: an ambulance, the fire brigade or the police. A specially trained operator will answer any 112 call. ",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "IE",
+    "means_of_access": "Emergency calls (voice)",
+    "em_description": "112 European emergency number",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LI",
+    "means_of_access": "Emergency calls (voice)",
+    "em_description": "112 European emergency number. 117 Police. 118 Fire brigade. 143 Helping hand (in german &quot;Dargebotene Hand&quot;). 144 Ambulance. 145 Tox info. 147 Helpline for children and young people. ",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LI",
+    "means_of_access": "Emergency applications",
+    "em_description": "112 European emergency number. 117 Police. 118 Fire brigade. 144 Ambulance",
+    "download_link": "<a href=\"https://play.google.com/store/apps/details?id=li.landespolizei.polizeiFl\">https://play.google.com/store/apps/details?id=li.landespolizei.polizeiFl</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "LI",
+    "means_of_access": "Emergency applications",
+    "em_description": "113 European emergency number. 117 Police. 118 Fire brigade. 144 Ambulance",
+    "download_link": "<a href=\"https://apps.apple.com/ch/app/polizei-fl/id524685374\">https://apps.apple.com/ch/app/polizei-fl/id524685374</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "LT",
+    "means_of_access": "Other",
+    "em_description": "SMS to number 112",
+    "download_link": "",
+    "additional_information": "Customers of national mobile networks can contact emergency services by sending SMS message to number 112 without any prie-registration. 112 SMS service is limited to Lithuanian SIM cards users only due to limitations of mobile networks"
+  },
+  {
+    "country": "LT",
+    "means_of_access": "Emergency Calls (Voice)",
+    "em_description": "Emergency Emergency Calls (Voice) call to number 112",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LT",
+    "means_of_access": "Other",
+    "em_description": "112 eCall",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LU",
+    "means_of_access": "Emergency calls (voice)",
+    "em_description": "112 European emergency number. 12112 European emergency number. 113 Police. 12113 Police",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LU",
+    "means_of_access": "Other",
+    "em_description": "SMS to 112",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LU",
+    "means_of_access": "Emergency applications",
+    "em_description": "GouvAlert.lu (Google Play)",
+    "download_link": "<a href=\"https://play.google.com/store/apps/details?id=lu.ctie.gouvalertlu\">https://play.google.com/store/apps/details?id=lu.ctie.gouvalertlu</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "LU",
+    "means_of_access": "Emergency applications",
+    "em_description": "GouvAlert.lu (Apple)",
+    "download_link": "<a href=\"https://apps.apple.com/de/app/gouvalert-lu/id1299114216\">https://apps.apple.com/de/app/gouvalert-lu/id1299114216</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "LU",
+    "means_of_access": "Other",
+    "em_description": "Fax to 112",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LV",
+    "means_of_access": "Emergency applications",
+    "em_description": "Emergency applications",
+    "download_link": "<a href=\"https://play.google.com/store/apps/details?id=com.vp.manadrosiba&amp;hl=lv\">https://play.google.com/store/apps/details?id=com.vp.manadrosiba&amp;hl=lv</a>",
+    "additional_information": "The purpose of the â€œMana drosiba&quot; app is to take care of the safety of every resident of Latvia in both road traffic and the Internet. In addition to the ability to send messages and coordinates, the &quot;Mana drosiba&quot; app includes several features that can be useful to everyone. In the &quot;Drosiba satiksme&quot; section, you can learn about the behavior of different road traffic situations that can be encountered by any road user. The &quot;Drosiba interneta&quot; section, on the other hand, is dedicated to security issues related to the Internet environment."
+  },
+  {
+    "country": "LV",
+    "means_of_access": "Emergency applications",
+    "em_description": "Emergency applications",
+    "download_link": "<a href=\"https://apps.apple.com/lv/app/mana-dro%C5%A1%C4%ABba/id1012389608\">https://apps.apple.com/lv/app/mana-dro%C5%A1%C4%ABba/id1012389608</a>",
+    "additional_information": "The purpose of the â€œMana drosiba&quot; app is to take care of the safety of every resident of Latvia in both road traffic and the Internet. In addition to the ability to send messages and coordinates, the â€œMana drosiba&quot; app includes several features that can be useful to everyone. In the &quot;Drosiba satiksme&quot; section, you can learn about the behavior of different road traffic situations that can be encountered by any road user. The &quot;Drosiba interneta&quot; section, on the other hand, is dedicated to security issues related to the Internet environment."
+  },
+  {
+    "country": "LV",
+    "means_of_access": "Messaging",
+    "em_description": "SMS as a part of Public Warning in the case of the emergency situation ",
+    "download_link": "",
+    "additional_information": "SMS (text provided by the services involved in solving of emergency situtation) is sent by the operators to their customers/abonents in case of the emergency situation. "
+  },
+  {
+    "country": "LV",
+    "means_of_access": "Relay services",
+    "em_description": "SMS to 112",
+    "download_link": "",
+    "additional_information": "Accessible to customers of Latvian teleoperators. "
+  },
+  {
+    "country": "MT",
+    "means_of_access": "Emergency applications",
+    "em_description": "iOS App",
+    "download_link": "<a href=\"https://itunes.apple.com/us/app/112mt/id1199470896?mt=8&amp;uo=4\">https://itunes.apple.com/us/app/112mt/id1199470896?mt=8&amp;uo=4</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "MT",
+    "means_of_access": "Emergency applications",
+    "em_description": "Android App",
+    "download_link": "<a href=\"https://play.google.com/store/apps/details?id=mt.gov.my112\">https://play.google.com/store/apps/details?id=mt.gov.my112</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "MT",
+    "means_of_access": "Messaging",
+    "em_description": "SMS - +356 79770112",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "NL",
+    "means_of_access": "Emergency applications",
+    "em_description": "112NL APP For all kind of users voice, video, photo and chatfunction which translates 109 languages into Dutch",
+    "download_link": "<a href=\"https://www.rijksoverheid.nl/onderwerpen/alarmnummer-112/vraag-en-antwoord/112-app-van-de-overheid\">https://www.rijksoverheid.nl/onderwerpen/alarmnummer-112/vraag-en-antwoord/112-…</a>",
+    "additional_information": "112NL app is found in both Google Playstore and Apple&#039;s Appstore"
+  },
+  {
+    "country": "NL",
+    "means_of_access": "Relay services",
+    "em_description": "speech, text or video",
+    "download_link": "",
+    "additional_information": "SIP: teletolk@kpnteletolk.nl. By means of Tolkcontact-app, found in both Playstore and Appstore"
+  },
+  {
+    "country": "NO",
+    "means_of_access": "Emergency applications",
+    "em_description": "Private Apps",
+    "download_link": "<a href=\"https://norskluftambulanse.no/hjelp113/\">https://norskluftambulanse.no/hjelp113/</a>",
+    "additional_information": "Information on access for roamers to be updated/considered"
+  },
+  {
+    "country": "NO",
+    "means_of_access": "Messaging",
+    "em_description": "SMS to emergency numbers",
+    "download_link": "<a href=\"https://nodsms.no/\">https://nodsms.no/</a>",
+    "additional_information": "Due to technical challenges of roaming for short numbers, roaming end-users may use the following long Norwegian numbers to acces the emergency SMS-service  \tFire: +4759555110. Police: +4759555112. Medical Emerengcy: +4759555113"
+  },
+  {
+    "country": "NO",
+    "means_of_access": "Relay services",
+    "em_description": "Relay service to emergency services",
+    "download_link": "<a href=\"https://www.teksttelefon.no/\">https://www.teksttelefon.no/</a>",
+    "additional_information": "The availability for roamers is subject to discussion with Telenor"
+  },
+  {
+    "country": "PL",
+    "means_of_access": "Emergency applications",
+    "em_description": "App Alarm 112 is intended to report all category incidents. Its dedicated for all end-users, including end-users with disabilities. The modular structure of the application makes it possible to select information describing the emergency event by means of pictograms, send a notification of such event to a PSAP and review the history of notifications. The graphical user interface is based on pictograms developed with the involvement of deaf people and emergency call takers. To use the mobile application, it is necessary to download it free of charge and register (only for users with polish prefix numbers +48). The application is available for Android operating system. This emergency application includes functions: App messaging and App real time text. Registration to application for users of foreign mobile networks (other than 0048 phone prefix number) will be available from  1st of June 2023.",
+    "download_link": "<a href=\"https://play.google.com/store/apps/details?id=com.help.deafhelp\">https://play.google.com/store/apps/details?id=com.help.deafhelp</a>",
+    "additional_information": "Additional information available on website: https://www.gov.pl/web/mswia-en/alarm112-mobile-application"
+  },
+  {
+    "country": "PL",
+    "means_of_access": "Emergency applications",
+    "em_description": "App Alarm 112 is intended to report all category incidents. Its dedicated for all end-users, including end-users with disabilities. The modular structure of the application makes it possible to select information describing the emergency event by means of pictograms, send a notification of such event to a PSAP and review the history of notifications. The graphical user interface is based on pictograms developed with the involvement of deaf people and emergency call takers. To use the mobile application, it is necessary to download it free of charge and register (only for users with polish prefix numbers +48). The application is available for Android operating system. This emergency application includes functions: App messaging and App real time text. Registration to application for users of foreign mobile networks (other than 0048 phone prefix number) will be available from  1st of June 2023.",
+    "download_link": "<a href=\"https://apps.apple.com/pl/app/alarm-112/id1494297585\">https://apps.apple.com/pl/app/alarm-112/id1494297585</a>",
+    "additional_information": "Additional information available on website: https://www.gov.pl/web/mswia-en/alarm112-mobile-application"
+  },
+  {
+    "country": "PL",
+    "means_of_access": "Emergency calls (voice)",
+    "em_description": "112 is an emergency number which is available free of charge throughout the European Union, both from landlines and mobile phones. The emergency number 112 can be dialled from a phone without a SIM card.  Emergency calls to 112 are received at Emergency Notification Centres by emergency number operators, who are in charge of the classification of the call and who make a parallel dispatch to the most appropriate energency serices.<br />\r\n",
+    "download_link": "",
+    "additional_information": "https://www.gov.pl/web/mswia-en/emergency-number-112"
+  },
+  {
+    "country": "PT",
+    "means_of_access": "Emergency applications",
+    "em_description": "For deaf people trough text (Google play)",
+    "download_link": "<a href=\"https://play.google.com/store/apps/details?id=io.cordova.mai112pt&amp;hl=en&amp;gl=US\">https://play.google.com/store/apps/details?id=io.cordova.mai112pt&amp;hl=en&amp;gl=US</a>",
+    "additional_information": "Available at google play  - MAI112"
+  },
+  {
+    "country": "PT",
+    "means_of_access": "Emergency applications",
+    "em_description": "For deaf people trough text  (Apple)",
+    "download_link": "<a href=\"https://apps.apple.com/pt/app/mai112/id1486324916?l=en\">https://apps.apple.com/pt/app/mai112/id1486324916?l=en</a>",
+    "additional_information": "Available at apple store - MAI112"
+  },
+  {
+    "country": "RO",
+    "means_of_access": "Emergency calls (voice)",
+    "em_description": "1. Voice calls to the emergency number 112. 2. The VoWiFi functionality allows placing a call to 112 when the mobile operator&#039;s network does not have coverage. In this case, the IMS (IP Multimedia Subsystem) technology is used which enables the provision of voice services via a Wi-Fi network. ",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "RO",
+    "means_of_access": "Emergency applications",
+    "em_description": "Call 112 (&quot;Apel 112&quot;) is the application developed by the national emergency call service administrator, for mobile phones with Android and iOS systems, able to read the location information generated by the existing location services on the phone and transmit the geographical position of the phone to the 112 System. The application uses the data connection (Internet) and the location service of the mobile phone to transmit to the 112 System the location information in AML (Advanced Mobile Location) format, containing the geographical coordinates of the mobile phone.",
+    "download_link": "<a href=\"https://play.google.com/store/apps/details?id=ro.sts.apel112\">https://play.google.com/store/apps/details?id=ro.sts.apel112</a>",
+    "additional_information": "The app is free of charge and can be downloaded to phones from Google Play and AppStore."
+  },
+  {
+    "country": "RO",
+    "means_of_access": "Emergency applications",
+    "em_description": "Call 112 (&quot;Apel 112&quot;) is the application developed by the national emergency call service administrator, for mobile phones with Android and iOS systems, able to read the location information generated by the existing location services on the phone and transmit the geographical position of the phone to the 112 System. The application uses the data connection (Internet) and the location service of the mobile phone to transmit to the 112 System the location information in AML (Advanced Mobile Location) format, containing the geographical coordinates of the mobile phone.",
+    "download_link": "<a href=\"https://apps.apple.com/ro/app/apel-112/id1444872263\">https://apps.apple.com/ro/app/apel-112/id1444872263</a>",
+    "additional_information": "The app is free of charge and can be downloaded to phones from Google Play and AppStore."
+  },
+  {
+    "country": "SE",
+    "means_of_access": "Emergency applications",
+    "em_description": "Mobile applications (Android and Apple) for emergency voice calls to 112.",
+    "download_link": "<a href=\"https://www.sosalarm.se/trygghet/112appen/\">https://www.sosalarm.se/trygghet/112appen/</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "SE",
+    "means_of_access": "Messaging",
+    "em_description": "Contact directly through SMS to application in SOS Alarms technical operational system, Coordcom",
+    "download_link": "<a href=\"https://www.sosalarm.se/trygghet/viktiga-telefonnummer/112/112-for-tal--och-horselskadade/\">https://www.sosalarm.se/trygghet/viktiga-telefonnummer/112/112-for-tal--och-hor…</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "SE",
+    "means_of_access": "Relay services",
+    "em_description": "An End-user can contact the Swedish Relay Services: Video Relay Service, Text Relay Service and Speech-to-speech Relay Service. The relay services can be used for emergency communication to 112. The Text Relay Service can be called with SIP-addresses, mobile applications (Android and Apple) &amp; web application, and for the person using hearing and Emergency Calls (Voice) with telephone numbers.",
+    "download_link": "<a href=\"https://www.texttelefoni.se/\">https://www.texttelefoni.se/</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "SE",
+    "means_of_access": "Relay services",
+    "em_description": "An End-user can contact the Swedish Relay Services: Video Relay Service, Text Relay Service and Speech-to-speech Relay Service. The relay services can be used for emergency communication to 112. The Video Relay Service can be called with SIP-addresses, mobile applications (Android and Apple) &amp; web application, and for the person using hearing and Emergency Calls (Voice) with telephone numbers.",
+    "download_link": "<a href=\"https://www.bildtelefoni.net\">https://www.bildtelefoni.net</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "SE",
+    "means_of_access": "Relay services",
+    "em_description": "An End-user can contact the Swedish Relay Services: Video Relay Service, Text Relay Service and Speech-to-speech Relay Service. The relay services can be used for emergency communication to 112.<br />\r\nSpeech-to-speech Relay Service can be called with telephone numbers.",
+    "download_link": "<a href=\"https://www.teletal.se\">https://www.teletal.se</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "SE",
+    "means_of_access": "Real time text",
+    "em_description": "Not as roaming using the national or international numbering plan.",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SE",
+    "means_of_access": "Total conversation",
+    "em_description": "Not as roaming using the national or international numbering plan.",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SI",
+    "means_of_access": "Other",
+    "em_description": "The mobile application allows you to receive alerts or alarms about imminent dangers of natural and other disasters in the territory of the Republic of Slovenia. Informing and alarming people, which comes under the jurisdiction of the Administration for Civil Protection and Disaster Relief of the Republic of Slovenia (ACPDR) is one of the services of the emergency call 112 â€“ Reverse 112, which complements other services to ensure greater safety of people. https://play.google.com/store/apps/details?id=com.genasys.pssdev.sloveniaprod",
+    "download_link": "<a href=\"https://112opozorilo.sos112.si\">https://112opozorilo.sos112.si</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "means_of_access": "Messaging",
+    "em_description": "SMS to European Emergency Number 112",
+    "download_link": "",
+    "additional_information": "universal access, no registration needed"
+  },
+  {
+    "country": "IS",
+    "means_of_access": "Emergency calls (voice)",
+    "em_description": "&quot;112&quot; for medical, police and fire emergencies",
+    "download_link": "",
+    "additional_information": ""
+  },
+  {
+    "country": "IS",
+    "means_of_access": "Emergency applications",
+    "em_description": "&quot;112&quot; app. Real time text chat. Report location and deaf specific user interface design",
+    "download_link": "<a href=\"https://www.112.is/en/112-appid\">https://www.112.is/en/112-appid</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "IS",
+    "means_of_access": "Real time text",
+    "em_description": "&quot;112&quot; Real time text webchat",
+    "download_link": "<a href=\"https://www.112.is/en/spjall\">https://www.112.is/en/spjall</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "IT",
+    "means_of_access": "Relay services",
+    "em_description": "112 Sordi - The 112 Sordi system allows equivalent access for deaf citizens to the emergency services. By calling the dedicated number 800 800 112, citizens receive a link, from the 1st level PSAPs of the Piedmont region. Via the link the deaf citizens can access a text chat supported by specifically designed  pictograms to facilitate the dialogue between the emergency operators and the end users. The pictograms where defined in collaboration with the National Deaf Association. All the requests at national level for the &quot;112 Sordi&quot; system are managed by the 1st level PSAPs of the Piedmont Region which acts as a relay service intermediating the conversation with all the competent emergency response organizations. The location of the call is terminal based.",
+    "download_link": "<a href=\"https://112sordi.it\">https://112sordi.it</a>",
+    "additional_information": "The system can be reached via phone by calling the number 800.800.112 (free of charge).Users can optionally register to the platform adding informations that can facilitate rescue operations.  The informations available at the link https://112sordi.it are available in Italian, English, French, Deutsch. Videos giving the informations in the sign languages are available for the same linguages indicated."
+  },
+  {
+    "country": "IT",
+    "means_of_access": "Emergency applications",
+    "em_description": "Flag Mii - Through the APP it is possible to establish a chat window with the first level PSAP Operator who will intermediate the contact between the user and the emergency services needed. Since October 2019 the APP is available for the disabled users on the whole italian territory. For the &quot;FlagMii&quot; App, the PSAPs 1 of the Piedmont Region are in charge of managing the emergency communications and of contacting the relevant emergency response organization.",
+    "download_link": "<a href=\"https://itunes.apple.com/it/app/flagmii/id658216360?mt=8\">https://itunes.apple.com/it/app/flagmii/id658216360?mt=8</a>",
+    "additional_information": "In Google Play store: https://play.google.com/store/apps/details?id=regola.flagmii&amp;hl=it"
+  },
+  {
+    "country": "IT",
+    "means_of_access": "Emergency applications",
+    "em_description": "Where Are U - The end-user can place a  call selecting, through a button, the most appropriate PSAP2; the call will be placed towards the relevant emergency number. The call can be placed as a &quot;silent&quot; call indicating that no voice contact is possible. The Where Are U app supports a chat client, so the first level PSAP Operator is able to intermediate the contact between the user and the emergency services needed. The location of the call is both network based and terminal based. ",
+    "download_link": "<a href=\"https://itunes.apple.com/it/app/112-where-are-u/id888964800?mt=8\">https://itunes.apple.com/it/app/112-where-are-u/id888964800?mt=8</a>",
+    "additional_information": "In Google Play store: https://play.google.com/store/apps/details?id=it.Beta80Group.whereareu&amp;hl=it "
+  },
+  {
+    "country": "PT",
+    "means_of_access": "Messaging",
+    "em_description": "Emergency SMS for deaf end-users is available on a dedicated long number (+351) 961010200",
+    "download_link": "",
+    "additional_information": "For deaf people trough SMS"
+  },
+  {
+    "country": "RO",
+    "means_of_access": "Other",
+    "em_description": "The eCall System enables the placing of an emergency call from inside the vehicle to the 112 System. This call can be placed automatically, through the activation of a set of in-vehicle sensors or manually, and it is established through mobile wireless communications networks, sending a standardised minimum set of data (MSD) and establishing an audio channel between the occupants of the vehicle and the most appropriate public safety answering point.",
+    "download_link": "",
+    "additional_information": ""
+  }
+]

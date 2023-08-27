@@ -1,0 +1,2866 @@
+[
+  {
+    "country": "AT",
+    "country_code": "43",
+    "vas_number_range": "900",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "premium rate services (pay per call)"
+  },
+  {
+    "country": "AT",
+    "country_code": "43",
+    "vas_number_range": "901",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "premium rate services (billing by time)"
+  },
+  {
+    "country": "AT",
+    "country_code": "43",
+    "vas_number_range": "930",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "premium rate services (pay per call)"
+  },
+  {
+    "country": "AT",
+    "country_code": "43",
+    "vas_number_range": "931",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "premium rate services (billing by time)"
+  },
+  {
+    "country": "AT",
+    "country_code": "43",
+    "vas_number_range": "939",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "premium rate services (pay per call)"
+  },
+  {
+    "country": "AT",
+    "country_code": "43",
+    "vas_number_range": "118",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "telephone directory enquiry services  (pay per call). short code, the number can only be reached if the the shortcode is entered without country code"
+  },
+  {
+    "country": "AT",
+    "country_code": "43",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "AT",
+    "country_code": "43",
+    "vas_number_range": "810",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "services with regulated maximum fees (pay per call)"
+  },
+  {
+    "country": "AT",
+    "country_code": "43",
+    "vas_number_range": "820",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "services with regulated maximum fees (pay per call)"
+  },
+  {
+    "country": "AT",
+    "country_code": "43",
+    "vas_number_range": "821",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "services with regulated maximum fees (billing per time)"
+  },
+  {
+    "country": "AT",
+    "country_code": "43",
+    "vas_number_range": "828",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "SMS services and voice hotline to SMS service"
+  },
+  {
+    "country": "BE",
+    "country_code": "32",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "BE",
+    "country_code": "32",
+    "vas_number_range": "78",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "BE",
+    "country_code": "32",
+    "vas_number_range": "70",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Low cost premium rate service"
+  },
+  {
+    "country": "BE",
+    "country_code": "32",
+    "vas_number_range": "900",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "BE",
+    "country_code": "32",
+    "vas_number_range": "901",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "BE",
+    "country_code": "32",
+    "vas_number_range": "902",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "BE",
+    "country_code": "32",
+    "vas_number_range": "903",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "BE",
+    "country_code": "32",
+    "vas_number_range": "904",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "BE",
+    "country_code": "32",
+    "vas_number_range": "905",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "BE",
+    "country_code": "32",
+    "vas_number_range": "906",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "BE",
+    "country_code": "32",
+    "vas_number_range": "907",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "BE",
+    "country_code": "32",
+    "vas_number_range": "908",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "BE",
+    "country_code": "32",
+    "vas_number_range": "909",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "BG",
+    "country_code": "359",
+    "vas_number_range": "700",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Personal number services"
+  },
+  {
+    "country": "BG",
+    "country_code": "359",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "BG",
+    "country_code": "359",
+    "vas_number_range": "90",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Premium-rate services"
+  },
+  {
+    "country": "CY",
+    "country_code": "357",
+    "vas_number_range": "77",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Added value services"
+  },
+  {
+    "country": "CY",
+    "country_code": "357",
+    "vas_number_range": "809",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "CY",
+    "country_code": "357",
+    "vas_number_range": "909",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "CY",
+    "country_code": "357",
+    "vas_number_range": "900",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "CY",
+    "country_code": "357",
+    "vas_number_range": "13",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Added value services with the exeption of free calls - universal service/ special social interest numbers)"
+  },
+  {
+    "country": "CY",
+    "country_code": "357",
+    "vas_number_range": "15",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Added value services with the exeption of free calls - universal service/ special social interest numbers)"
+  },
+  {
+    "country": "CY",
+    "country_code": "357",
+    "vas_number_range": "19",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Added value services with the exeption of free calls - universal service/ special social interest numbers)"
+  },
+  {
+    "country": "CY",
+    "country_code": "357",
+    "vas_number_range": "14",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Added value services with the exeption of free calls - universal service/ special social interest numbers)"
+  },
+  {
+    "country": "CY",
+    "country_code": "357",
+    "vas_number_range": "17",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Added value services with the exeption of free calls - universal service/ special social interest numbers)"
+  },
+  {
+    "country": "CY",
+    "country_code": "357",
+    "vas_number_range": "999",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "With the exception of range 8000-8999 which is free of charge"
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "81",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "83",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "84",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "900",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "905",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "906",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "908",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "909",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "118",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Short code for directory enquiry services"
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "12",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Short code for services for disabled, social and health services, fallback emergencies, information services"
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "14",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Short code for services for disabled, social, health, assistance, and security services"
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "95",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Private communications networks"
+  },
+  {
+    "country": "CZ",
+    "country_code": "420",
+    "vas_number_range": "98",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Virtual private networks"
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "115",
+    "name_description": "Other",
+    "roaming_tariff_information": "National tariff: Usually as calls to geographic numbers",
+    "additional_information": "Single government service telephone number / Under this phone number, a quick and uncomplicated first contact with the services of the entire public administration in Germany is possible. More complex questions will be forwarded to the responsible unit."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "116",
+    "name_description": "Other",
+    "roaming_tariff_information": "National tariff: Free of charge. Roaming is possible. Roaming calls may be charged.",
+    "additional_information": "Numbers for harmonised services of social value / Numbers enable EU citizens to access certain services of high social value in all Member States under a single, recognizable telephone number."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1371",
+    "name_description": "Other",
+    "roaming_tariff_information": "National tariff: 14 ct/call",
+    "additional_information": "Mass calling services / Services that are characterised by high volumes of short calls, during one or more brief intervals, to a destination with limited handling capacity."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1372",
+    "name_description": "Other",
+    "roaming_tariff_information": "National tariff: 14 ct/min",
+    "additional_information": "Mass calling services / Services that are characterised by high volumes of short calls, during one or more brief intervals, to a destination with limited handling capacity."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1373",
+    "name_description": "Other",
+    "roaming_tariff_information": "National tariff: 14 ct/min",
+    "additional_information": "Mass calling services / Services that are characterised by high volumes of short calls, during one or more brief intervals, to a destination with limited handling capacity."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1374",
+    "name_description": "Other",
+    "roaming_tariff_information": "National tariff: 14 ct/min",
+    "additional_information": "Mass calling services / Services that are characterised by high volumes of short calls, during one or more brief intervals, to a destination with limited handling capacity."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1375",
+    "name_description": "Other",
+    "roaming_tariff_information": "National tariff: 14 ct/call",
+    "additional_information": "Mass calling services / Services that are characterised by high volumes of short calls, during one or more brief intervals, to a destination with limited handling capacity."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1376",
+    "name_description": "Other",
+    "roaming_tariff_information": "National tariff: 25 ct/call",
+    "additional_information": "Mass calling services / Services that are characterised by high volumes of short calls, during one or more brief intervals, to a destination with limited handling capacity."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1377",
+    "name_description": "Other",
+    "roaming_tariff_information": "National tariff: 1 Eur/call",
+    "additional_information": "Mass calling services / Services that are characterised by high volumes of short calls, during one or more brief intervals, to a destination with limited handling capacity."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1378",
+    "name_description": "Other",
+    "roaming_tariff_information": "National tariff: 50 ct/call",
+    "additional_information": "Mass calling services / Services that are characterised by high volumes of short calls, during one or more brief intervals, to a destination with limited handling capacity."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1379",
+    "name_description": "Other",
+    "roaming_tariff_information": "National tariff: 50 ct/call",
+    "additional_information": "Mass calling services / Services that are characterised by high volumes of short calls, during one or more brief intervals, to a destination with limited handling capacity."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "164",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Paging services"
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "168",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Paging services"
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "169",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Paging services"
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1801",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "National tariff: 3.9 ct/min",
+    "additional_information": "Medium rate services / Services for which the same rate is charged across the country."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1802",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "National tariff: 6 ct/call",
+    "additional_information": "Medium rate services / Services for which the same rate is charged across the country."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1803",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "National tariff: 9 ct/min",
+    "additional_information": "Medium rate services / Services for which the same rate is charged across the country."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1804",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "National tariff: 20 ct/call",
+    "additional_information": "Medium rate services / Services for which the same rate is charged across the country."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1805",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "National tariff: 14 ct/min",
+    "additional_information": "Medium rate services / Services for which the same rate is charged across the country."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1806",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "National tariff: 20 ct/call",
+    "additional_information": "Medium rate services / Services for which the same rate is charged across the country."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "1807",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "National tariff: 30 seconds free, then 14 ct/min",
+    "additional_information": "Medium rate services / Services for which the same rate is charged across the country."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "181",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Numbers for international virtual private networks (IVPNs)"
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "182",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Numbers for virtual private networks (VPNs)"
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "183",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Numbers for virtual private networks (VPNs)"
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "184",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Numbers for virtual private networks (VPNs)"
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "185",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Numbers for virtual private networks (VPNs)"
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "186",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Numbers for virtual private networks (VPNs)"
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "187",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Numbers for virtual private networks (VPNs)"
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "188",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Numbers for virtual private networks (VPNs)"
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "189",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Numbers for virtual private networks (VPNs)"
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "32",
+    "name_description": "Other",
+    "roaming_tariff_information": "National tariff: Maximum 9 ct/min",
+    "additional_information": "National subscriber numbers / Numbers that are used for services enabling access to public telecommunications networks and that are not tied to a specific location."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "700",
+    "name_description": "Other",
+    "roaming_tariff_information": "National tariff: Maximum 9 ct/min",
+    "additional_information": "Personal numbers / Numbers that provide access to and from every telecommunications network under one number, irrespective of the location, terminal equipment, transmission mode or technology."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "National tariff: Free of charge",
+    "additional_information": ""
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "9001",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "National tariff: Maximum 3 Eur/min or 30 Eur/call",
+    "additional_information": "Premium rate numbers / Numbers providing a service in addition to the telecommunications service, which is charged to the caller along with the telecommunications service and which cannot be placed with another type of number."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "9003",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "National tariff: Maximum 3 Eur/min or 30 Eur/call",
+    "additional_information": "Premium rate numbers / Numbers providing a service in addition to the telecommunications service, which is charged to the caller along with the telecommunications service and which cannot be placed with another type of number."
+  },
+  {
+    "country": "DE",
+    "country_code": "49",
+    "vas_number_range": "9005",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "National tariff: Maximum 3 Eur/min or 30 Eur/call",
+    "additional_information": "Premium rate numbers / Numbers providing a service in addition to the telecommunications service, which is charged to the caller along with the telecommunications service and which cannot be placed with another type of number."
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "801",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "802",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "803",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "804",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "805",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "806",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "807",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "808",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "809",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "901",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "For more information on PRN, see https://sdfi.dk/digital-infrastruktur/telefoni/numre/90-numre"
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "902",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "For more information on PRN, see https://sdfi.dk/digital-infrastruktur/telefoni/numre/90-numre"
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "903",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "For more information on PRN, see https://sdfi.dk/digital-infrastruktur/telefoni/numre/90-numre"
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "904",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "For more information on PRN, see https://sdfi.dk/digital-infrastruktur/telefoni/numre/90-numre"
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "905",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "For more information on PRN, see https://sdfi.dk/digital-infrastruktur/telefoni/numre/90-numre"
+  },
+  {
+    "country": "DK",
+    "country_code": "45",
+    "vas_number_range": "909",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "For more information on PRN, see https://sdfi.dk/digital-infrastruktur/telefoni/numre/90-numre"
+  },
+  {
+    "country": "EE",
+    "country_code": "372",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "7-10 digit numbers"
+  },
+  {
+    "country": "EE",
+    "country_code": "372",
+    "vas_number_range": "900",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "7-digit numbers"
+  },
+  {
+    "country": "EE",
+    "country_code": "372",
+    "vas_number_range": "70",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Personal number service. 8-digit numbers"
+  },
+  {
+    "country": "EE",
+    "country_code": "372",
+    "vas_number_range": "1",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service short number. 3-6 digit numbers, both premium rate and free services are possible, accessible by voice call and/or SMS"
+  },
+  {
+    "country": "EE",
+    "country_code": "372",
+    "vas_number_range": "901",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "7-digit numbers. Internet access service"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "803",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digit voice. Adult exclusive services"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "806",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digit voice. Entertainment services"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "807",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digit voice. Professional services"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "905",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digit voice. Massive calls reception"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "118",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digit voice. Directory enquiry service"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digit voice"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "900",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digit voice. Non-geographical automatic and semi-automatic freephone service number"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "901",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digit voice"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "902",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digit voice. Calling party pays. Bussiness information numbers"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "70",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digit voice. Personal numbering"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "1006",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Civil protection. 4 digit short number"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "25",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "Regular premium SMS &lt;= 1.2EUR",
+    "additional_information": "5 digit SMS"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "27",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "Regular premium SMS &lt;= 1.2EUR",
+    "additional_information": "5 digit SMS"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "280",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "Solidarity premium SMS &lt;= 1.2EUR",
+    "additional_information": "5 digit SMS"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "29",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "Regular premium SMS &lt;= 1.2EUR",
+    "additional_information": "6 digit SMS"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "35",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "Regular premium SMS &gt;1.2EUR and  &lt;=6EUR",
+    "additional_information": "5 digit SMS"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "37",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "Regular premium SMS &gt;1.2EUR and  &lt;=6EUR",
+    "additional_information": "5 digit SMS"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "39",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "Regular premium SMS &gt;1.2EUR and  &lt;=6EUR",
+    "additional_information": "6 digit SMS"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "795",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "Subscription premium SMS &lt;=1.2EUR per SMS received",
+    "additional_information": "6 digit SMS"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "797",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "Subscription premium SMS &lt;=1.2EUR per SMS received",
+    "additional_information": "6 digit SMS"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "799",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "Subscription premium SMS &lt;=1.2EUR per SMS received",
+    "additional_information": "7 digit SMS"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "995",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "6 digit SMS. Adult exclusive premium SMS  &lt;=6EUR"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "997",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "6 digit SMS. Adult exclusive premium SMS  &lt;=6EUR"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "999",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "7 digit SMS. Adult exclusive premium SMS premium &lt;=6EUR"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "100",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group I"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "200",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group I"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "2020",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group I"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "2022",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group I"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "2023",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group I"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Freephone services"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "300",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group I"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "600",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group II"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "601",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group I"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "602",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group II"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "7000",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group III"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "7001",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group IV"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "7003",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group IV"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "7004",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group IV"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "7005",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group III"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "7007",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group III"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "7008",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group III"
+  },
+  {
+    "country": "FI",
+    "country_code": "358",
+    "vas_number_range": "7009",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service group IV"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "free of charge",
+    "additional_information": "accessible by both voice call and text messaging"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "801",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "free of charge",
+    "additional_information": "accessible by both voice call and text messaging"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "802",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "free of charge",
+    "additional_information": "accessible by both voice call and text messaging"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "803",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "free of charge",
+    "additional_information": "accessible by both voice call and text messaging"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "804",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "free of charge",
+    "additional_information": "accessible by both voice call and text messaging"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "805",
+    "name_description": "Other",
+    "roaming_tariff_information": "same as a call to a local French number",
+    "additional_information": "accessible by both voice call and text messaging"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "806",
+    "name_description": "Other",
+    "roaming_tariff_information": "same as a call to a local French number",
+    "additional_information": "accessible by both voice call and text messaging"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "807",
+    "name_description": "Other",
+    "roaming_tariff_information": "same as a call to a local French number",
+    "additional_information": "accessible by both voice call and text messaging"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "808",
+    "name_description": "Other",
+    "roaming_tariff_information": "same as a call to a local French number",
+    "additional_information": "accessible by both voice call and text messaging"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "809",
+    "name_description": "Other",
+    "roaming_tariff_information": "same as a call to a local French number",
+    "additional_information": "accessible by both voice call and text messaging"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "81",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.050Eur per minute or up to 0.125Eur per call (without VAT) + cost of a call to a local French number",
+    "additional_information": "accessible only by voice call"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "82",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.167Eur per minute or up to 0.417Eur per call (without VAT) + cost of a call to a local French number",
+    "additional_information": "accessible only by voice call"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "836",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "unregulated",
+    "additional_information": "numbers for data services, accessible only by voice call"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "860",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.050Eur per minute (without VAT)",
+    "additional_information": "dial-up Internet access by PSTN/ISDN networks, accessible only by voice call"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "868",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "unregulated",
+    "additional_information": "dial-up Internet access by PSTN/ISDN networks, accessible only by voice call"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "89",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.667Eur per minute or up to 2.50Eur per call (without VAT) + cost of a call to a local French number",
+    "additional_information": "accessible only by voice call"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "10",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.667Eur per minute or up to 2.50Eur per call (without VAT) + cost of a call to a local French number",
+    "additional_information": "short numbers for operator assistance. 4-digits numbers, accessible only by voice call"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "30",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "free of charge",
+    "additional_information": "4-digits numbers, accessible by both voice call and text messaging"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "31",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "free of charge",
+    "additional_information": "4-digits numbers, accessible by both voice call and text messaging"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "32",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.667Eur per minute or up to 2.50Eur per call (without VAT) + cost of a call to a local French number",
+    "additional_information": "4-digits numbers, accessible only by voice call"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "34",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.667Eur per minute or up to 2.50Eur per call (without VAT) + cost of a call to a local French number",
+    "additional_information": "4-digits numbers, accessible only by voice call"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "36",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.667Eur per minute or up to 2.50Eur per call (without VAT) + cost of a call to a local French number",
+    "additional_information": "4-digits numbers, accessible only by voice call"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "39",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.667Eur per minute or up to 2.50Eur per call (without VAT) + cost of a call to a local French number",
+    "additional_information": "4-digits numbers, accessible only by voice call"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "118",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.667Eur per minute or up to 2.50Eur per call (without VAT) + cost of a call to a local French number",
+    "additional_information": "short numbers for direct enquiry services. 6-digits numbers, accessible only by voice call"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "3",
+    "name_description": "Other",
+    "roaming_tariff_information": "same as a SMS to a mobile French number",
+    "additional_information": "short numbers for premium rate services by SMS. 5-digits numbers, accessible only by text messaging (these numbers are part of French operators&#039; private numbering plan)"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "4",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.04Eur per message (without VAT) + cost of a SMS to a mobile French number",
+    "additional_information": "short numbers for premium rate services by SMS. 5-digits numbers, accessible only by text messaging (these numbers are part of French operators&#039; private numbering plan)"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "5",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.17Eur per message (without VAT) + cost of a SMS to a mobile French number",
+    "additional_information": "short numbers for premium rate services by SMS. 5-digits numbers, accessible only by text messaging (these numbers are part of French operators&#039; private numbering plan)"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "6",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.42Eur per message (without VAT)  + cost of a SMS to a mobile French number",
+    "additional_information": "short numbers for premium rate services by SMS. 5-digits numbers, accessible only by text messaging (these numbers are part of French operators&#039; private numbering plan)"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "7",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 0.83Eur per message (without VAT) + cost of a SMS to a mobile French number",
+    "additional_information": "short numbers for premium rate services by SMS. 5-digits numbers, accessible only by text messaging (these numbers are part of French operators&#039; private numbering plan)"
+  },
+  {
+    "country": "FR",
+    "country_code": "33",
+    "vas_number_range": "8",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "up to 3.75Eur per message (without VAT)  + cost of a SMS to a mobile French number",
+    "additional_information": "short numbers for premium rate services by SMS. 5-digits numbers, accessible only by text messaging (these numbers are part of French operators&#039; private numbering plan)"
+  },
+  {
+    "country": "GR",
+    "country_code": "30",
+    "vas_number_range": "90",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "GR",
+    "country_code": "30",
+    "vas_number_range": "806",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "GR",
+    "country_code": "30",
+    "vas_number_range": "812",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "GR",
+    "country_code": "30",
+    "vas_number_range": "825",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "GR",
+    "country_code": "30",
+    "vas_number_range": "850",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "GR",
+    "country_code": "30",
+    "vas_number_range": "875",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "GR",
+    "country_code": "30",
+    "vas_number_range": "14",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Short codes"
+  },
+  {
+    "country": "GR",
+    "country_code": "30",
+    "vas_number_range": "198",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Short codes"
+  },
+  {
+    "country": "GR",
+    "country_code": "30",
+    "vas_number_range": "118",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Short codes. Directory enquiry services"
+  },
+  {
+    "country": "GR",
+    "country_code": "30",
+    "vas_number_range": "801",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "GR",
+    "country_code": "30",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "HR",
+    "country_code": "385",
+    "vas_number_range": "60",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "General services; 4 or 6 digits accessible only by voice call"
+  },
+  {
+    "country": "HR",
+    "country_code": "385",
+    "vas_number_range": "609",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Humanitarian services/Humanitarian aid; 4 or 6 digits accessible only by voice call"
+  },
+  {
+    "country": "HR",
+    "country_code": "385",
+    "vas_number_range": "61",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Televoting services; 4 or 6 digits; accessible only by voice call"
+  },
+  {
+    "country": "HR",
+    "country_code": "385",
+    "vas_number_range": "64",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Adult Services; 4 or 6 digits accessible only by voice call"
+  },
+  {
+    "country": "HR",
+    "country_code": "385",
+    "vas_number_range": "65",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Prize game services; 4 or 6 digits accessible only by voice call"
+  },
+  {
+    "country": "HR",
+    "country_code": "385",
+    "vas_number_range": "69",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Services for Children 4 or 6 digits accessible only by voice call"
+  },
+  {
+    "country": "HR",
+    "country_code": "385",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Freephone services; 4 or 6 digits accessible only by voice call"
+  },
+  {
+    "country": "HR",
+    "country_code": "385",
+    "vas_number_range": "118",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Short number for Directory enquiry service; short codes 5 digits; accessible by both voice call and text messaging"
+  },
+  {
+    "country": "HU",
+    "country_code": "36",
+    "vas_number_range": "90",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "https://agapub.nmhh.hu/aga_web/setLanguageAction.action?request_locale=en; The accessibility of these number ranges for roamers depends on the visited network operator&#039;s settings. Premium-rate adult service numbers included."
+  },
+  {
+    "country": "HU",
+    "country_code": "36",
+    "vas_number_range": "91",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "https://agapub.nmhh.hu/aga_web/setLanguageAction.action?request_locale=en; Price cap information: https://nmhh.hu/cikk/160/Az_emelt_dijas_dijkorlatos_szolgaltatasert_a_hivo_fel_altal_fizetendo_legmagasabb_dij; The accessibility of these number ranges for roamers depends on the visited network operator&#039;s settings."
+  },
+  {
+    "country": "HU",
+    "country_code": "36",
+    "vas_number_range": "168",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "National only short numbers, https://agapub.nmhh.hu/aga_web/setLanguageAction.action?request_locale=en; The accessibility of these number ranges for roamers depends on the visited network operator&#039;s settings. Premium-rate adult service numbers."
+  },
+  {
+    "country": "HU",
+    "country_code": "36",
+    "vas_number_range": "169",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "National only short numbers, https://agapub.nmhh.hu/aga_web/setLanguageAction.action?request_locale=en; The accessibility of these number ranges for roamers depends on the visited network operator&#039;s settings. Premium-rate adult service numbers."
+  },
+  {
+    "country": "HU",
+    "country_code": "36",
+    "vas_number_range": "164",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "National only short numbers, https://agapub.nmhh.hu/aga_web/setLanguageAction.action?request_locale=en; The accessibility of these number ranges for roamers depends on the visited network operator&#039;s settings."
+  },
+  {
+    "country": "HU",
+    "country_code": "36",
+    "vas_number_range": "165",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "National only short numbers, https://agapub.nmhh.hu/aga_web/setLanguageAction.action?request_locale=en; The accessibility of these number ranges for roamers depends on the visited network operator&#039;s settings."
+  },
+  {
+    "country": "HU",
+    "country_code": "36",
+    "vas_number_range": "160",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "National only short numbers, https://agapub.nmhh.hu/aga_web/setLanguageAction.action?request_locale=en; Price cap information: https://nmhh.hu/cikk/160/Az_emelt_dijas_dijkorlatos_szolgaltatasert_a_hivo_fel_altal_fizetendo_legmagasabb_dij; The accessibility of these number ranges for roamers depends on the visited network operator&#039;s settings."
+  },
+  {
+    "country": "HU",
+    "country_code": "36",
+    "vas_number_range": "161",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "National only short numbers, https://agapub.nmhh.hu/aga_web/setLanguageAction.action?request_locale=en; Price cap information: https://nmhh.hu/cikk/160/Az_emelt_dijas_dijkorlatos_szolgaltatasert_a_hivo_fel_altal_fizetendo_legmagasabb_dij; The accessibility of these number ranges for roamers depends on the visited network operator&#039;s settings."
+  },
+  {
+    "country": "HU",
+    "country_code": "36",
+    "vas_number_range": "118",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "National only short numbers, https://agapub.nmhh.hu/aga_web/setLanguageAction.action?request_locale=en; The accessibility of these number ranges for roamers depends on the visited network operator&#039;s settings."
+  },
+  {
+    "country": "HU",
+    "country_code": "36",
+    "vas_number_range": "80",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "https://agapub.nmhh.hu/aga_web/setLanguageAction.action?request_locale=en; The accessibility of these number ranges for roamers depends on the visited network operator&#039;s settings."
+  },
+  {
+    "country": "HU",
+    "country_code": "36",
+    "vas_number_range": "14",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "National only short numbers, https://agapub.nmhh.hu/aga_web/setLanguageAction.action?request_locale=en; The accessibility of these number ranges for roamers depends on the visited network operator&#039;s settings."
+  },
+  {
+    "country": "IE",
+    "country_code": "353",
+    "vas_number_range": "1530",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Please note that 15XX numbers are National Only. Please see Section 4.6 (&quot;Premium Rate Service Numbers&quot;)  of ComReg&#039;s Numbering Conditions of Use and Application Process document 15/136R3 as amended - see https://www.comreg.ie/publication-download/numbering-conditions-of-use-and-application-process-2  "
+  },
+  {
+    "country": "IE",
+    "country_code": "353",
+    "vas_number_range": "1540",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Please note that 15XX numbers are National Only. Please see Section 4.6 (&quot;Premium Rate Service Numbers&quot;)  of ComReg&#039;s Numbering Conditions of Use and Application Process document 15/136R3 as amended - see https://www.comreg.ie/publication-download/numbering-conditions-of-use-and-application-process-2  "
+  },
+  {
+    "country": "IE",
+    "country_code": "353",
+    "vas_number_range": "1550",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Please note that 15XX numbers are National Only. Please see Section 4.6 (&quot;Premium Rate Service Numbers&quot;)  of ComReg&#039;s Numbering Conditions of Use and Application Process document 15/136R3 as amended - see https://www.comreg.ie/publication-download/numbering-conditions-of-use-and-application-process-2  "
+  },
+  {
+    "country": "IE",
+    "country_code": "353",
+    "vas_number_range": "1560",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Please note that 15XX numbers are National Only. Please see Section 4.6 (&quot;Premium Rate Service Numbers&quot;)  of ComReg&#039;s Numbering Conditions of Use and Application Process document 15/136R3 as amended - see https://www.comreg.ie/publication-download/numbering-conditions-of-use-and-application-process-2  "
+  },
+  {
+    "country": "IE",
+    "country_code": "353",
+    "vas_number_range": "1570",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Please note that 15XX numbers are National Only. Please see Section 4.6 (&quot;Premium Rate Service Numbers&quot;)  of ComReg&#039;s Numbering Conditions of Use and Application Process document 15/136R3 as amended - see https://www.comreg.ie/publication-download/numbering-conditions-of-use-and-application-process-2  "
+  },
+  {
+    "country": "IE",
+    "country_code": "353",
+    "vas_number_range": "1580",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Please note that 15XX numbers are National Only. Please see Section 4.6 (&quot;Premium Rate Service Numbers&quot;)  of ComReg&#039;s Numbering Conditions of Use and Application Process document 15/136R3 as amended - see https://www.comreg.ie/publication-download/numbering-conditions-of-use-and-application-process-2  "
+  },
+  {
+    "country": "IE",
+    "country_code": "353",
+    "vas_number_range": "1590",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Please note that 15XX numbers are National Only. Please see Section 4.6 (&quot;Premium Rate Service Numbers&quot;)  of ComReg&#039;s Numbering Conditions of Use and Application Process document 15/136R3 as amended - see https://www.comreg.ie/publication-download/numbering-conditions-of-use-and-application-process-2  "
+  },
+  {
+    "country": "IE",
+    "country_code": "353",
+    "vas_number_range": "1598",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Please note that 15XX numbers are National Only. Please see Section 4.6 (&quot;Premium Rate Service Numbers&quot;)  of ComReg&#039;s Numbering Conditions of Use and Application Process document 15/136R3 as amended - see https://www.comreg.ie/publication-download/numbering-conditions-of-use-and-application-process-2  "
+  },
+  {
+    "country": "IE",
+    "country_code": "353",
+    "vas_number_range": "1599",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Please note that 15XX numbers are National Only. Please see Section 4.6 (&quot;Premium Rate Service Numbers&quot;)  of ComReg&#039;s Numbering Conditions of Use and Application Process document 15/136R3 as amended - see https://www.comreg.ie/publication-download/numbering-conditions-of-use-and-application-process-2  "
+  },
+  {
+    "country": "IE",
+    "country_code": "353",
+    "vas_number_range": "118",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Directory Enquiry  Number Range. Please note that 118 numbers are National Only. Please see Section 5.2  (&quot;Directory Enquiry Access Short Codes&quot;) of ComReg&#039;s Numbering Conditions of Use and Application Process document 15/136R3  as amended - see https://www.comreg.ie/publication-download/numbering-conditions-of-use-and-application-process-2  "
+  },
+  {
+    "country": "IE",
+    "country_code": "353",
+    "vas_number_range": "1800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Please note that 1800 numbers are National Only.  Please see Section 4.3   (&quot;Freephone Numbers&quot;) of ComReg&#039;s Numbering Conditions of Use and Application Process document 15/136R3 as amended - see https://www.comreg.ie/publication-download/numbering-conditions-of-use-and-application-process-2   "
+  },
+  {
+    "country": "IT",
+    "country_code": "39",
+    "vas_number_range": "12",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Directory enquire service"
+  },
+  {
+    "country": "IT",
+    "country_code": "39",
+    "vas_number_range": "178",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Single or personal number services"
+  },
+  {
+    "country": "IT",
+    "country_code": "39",
+    "vas_number_range": "199",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Single or personal number services"
+  },
+  {
+    "country": "IT",
+    "country_code": "39",
+    "vas_number_range": "455",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Fundraising services for charitable purposes of social utility"
+  },
+  {
+    "country": "IT",
+    "country_code": "39",
+    "vas_number_range": "499",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Fundraising services for campaigns that promote participation in political life"
+  },
+  {
+    "country": "IT",
+    "country_code": "39",
+    "vas_number_range": "84",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "IT",
+    "country_code": "39",
+    "vas_number_range": "89",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "IT",
+    "country_code": "39",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "IT",
+    "country_code": "39",
+    "vas_number_range": "803",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LI",
+    "country_code": "423",
+    "vas_number_range": "18",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "telephone directory enquiry services. short code (3 or 4 digits)"
+  },
+  {
+    "country": "LI",
+    "country_code": "423",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "700",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Service numbers"
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "705",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Televoting services"
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "706",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Government institutions services"
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "707",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Corporate networks"
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "801",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Dial-up Internet access"
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "802",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Calls at the expense of the recipient"
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "808",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "900",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "901",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Dial-up Internet access"
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "902",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "903",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "909",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Adult Services"
+  },
+  {
+    "country": "LT",
+    "country_code": "370",
+    "vas_number_range": "910",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LU",
+    "country_code": "352",
+    "vas_number_range": "900",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "premium rate services (billing by time or paying per call)"
+  },
+  {
+    "country": "LU",
+    "country_code": "352",
+    "vas_number_range": "901",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "premium rate services (billing by time or paying per call)"
+  },
+  {
+    "country": "LU",
+    "country_code": "352",
+    "vas_number_range": "905",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "premium rate services (billing by time or paying per call)"
+  },
+  {
+    "country": "LV",
+    "country_code": "371",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "8 digits"
+  },
+  {
+    "country": "LV",
+    "country_code": "371",
+    "vas_number_range": "81",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "8 digits"
+  },
+  {
+    "country": "LV",
+    "country_code": "371",
+    "vas_number_range": "90",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "8 digits"
+  },
+  {
+    "country": "LV",
+    "country_code": "371",
+    "vas_number_range": "78",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "8 digits"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "115",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "The range 115X is dedicated for 4-digit short codes used for the provision of operator services. Charges are commercially established. For further information, kindly refer to the Short Code Matrix available at https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "118",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "The range 118X is dedicated for 4-digit short codes used for the provision of directory enquiry services. Charges are commercially established. For further information, kindly refer to the Short Code Matrix available at https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "50037",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Premium Rate Services (SMS only). For further information on Malta&#039;s Framework for Premium Rate Services, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "50043",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Legacy Premium Rate Services (Voice only).For further information on Malta&#039;s Framework for Premium Rate Services, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "506",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Premium Rate Services (SMS only).For further information on Malta&#039;s Framework for Premium Rate Services, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "5070",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Premium Rate Services (SMS only).For further information on Malta&#039;s Framework for Premium Rate Services, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "5090",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Premium Rate Services (SMS only).For further information on Malta&#039;s Framework for Premium Rate Services, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "5091",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Premium Rate Services (SMS only).For further information on Malta&#039;s Framework for Premium Rate Services, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "51",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Premium Rate Services (Voice only). For further information on Malta&#039;s Framework for Premium Rate Services, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "52",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Premium Rate Services (Voice only). For further information on Malta&#039;s Framework for Premium Rate Services, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "54",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Premium Rate Services (Voice only).For further information on Malta&#039;s Framework for Premium Rate Services, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80002",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from both fixed and mobile lines. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80034",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from fixed lines but may be charged at a rate not exceeding that for a call to a local fixed network in the case of mobile callers. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80036",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from fixed lines but may be charged at a rate not exceeding that for a call to a local fixed network in the case of mobile callers. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80037",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from fixed lines but may be charged at a rate not exceeding that for a call to a local fixed network in the case of mobile callers. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80049",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from fixed lines but may be charged at a rate not exceeding that for a call to a local fixed network in the case of mobile callers. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80062",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from fixed lines but may be charged at a rate not exceeding that for a call to a local fixed network in the case of mobile callers. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80065",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from fixed lines but may be charged at a rate not exceeding that for a call to a local fixed network in the case of mobile callers. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80072",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from fixed lines but may be charged at a rate not exceeding that for a call to a local fixed network in the case of mobile callers. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80073",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from fixed lines but may be charged at a rate not exceeding that for a call to a local fixed network in the case of mobile callers. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80074",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from fixed lines but may be charged at a rate not exceeding that for a call to a local fixed network in the case of mobile callers. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80075",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from fixed lines but may be charged at a rate not exceeding that for a call to a local fixed network in the case of mobile callers. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80076",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from fixed lines but may be charged at a rate not exceeding that for a call to a local fixed network in the case of mobile callers. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80078",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from fixed lines but may be charged at a rate not exceeding that for a call to a local fixed network in the case of mobile callers. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "MT",
+    "country_code": "356",
+    "vas_number_range": "80090",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Domestic calls to this range are free for callers from fixed lines but may be charged at a rate not exceeding that for a call to a local fixed network in the case of mobile callers. For further information on Malta&#039;s Framework for Freephone Services in the 800 range, kindly visit https://www.mca.org.mt/regulatory/numbering/numbering-plans"
+  },
+  {
+    "country": "NL",
+    "country_code": "31",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "national retail max. EUR 0.00 ",
+    "additional_information": ""
+  },
+  {
+    "country": "NL",
+    "country_code": "31",
+    "vas_number_range": "900",
+    "name_description": "Premium-Rate Numbers",
+    "roaming_tariff_information": "national retail min. EUR 0.00 max. EUR 1.20 per minute or min. EUR 0.10 max. EUR 2.00 per call",
+    "additional_information": ""
+  },
+  {
+    "country": "NL",
+    "country_code": "31",
+    "vas_number_range": "906",
+    "name_description": "Premium-Rate Numbers",
+    "roaming_tariff_information": "national retail min. EUR 0.00 max. EUR 1.20 per minute or min. EUR 0.10 max. EUR 2.00 per call",
+    "additional_information": ""
+  },
+  {
+    "country": "NL",
+    "country_code": "31",
+    "vas_number_range": "909",
+    "name_description": "Premium-Rate Numbers",
+    "roaming_tariff_information": "national retail min. EUR 0.00 max. EUR 1.20 per minute or min. EUR 0.10 max. EUR 2.00 per call",
+    "additional_information": ""
+  },
+  {
+    "country": "NO",
+    "country_code": "47",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "NO",
+    "country_code": "47",
+    "vas_number_range": "820",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "NO",
+    "country_code": "47",
+    "vas_number_range": "822",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "NO",
+    "country_code": "47",
+    "vas_number_range": "829",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "NO",
+    "country_code": "47",
+    "vas_number_range": "18",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Direct Enquiry Services"
+  },
+  {
+    "country": "PL",
+    "country_code": "48",
+    "vas_number_range": "700",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digits numbers; additional information available on website: https://numeracja.uke.gov.pl/pl/ndin_tables"
+  },
+  {
+    "country": "PL",
+    "country_code": "48",
+    "vas_number_range": "701",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digits numbers; additional information available on website: https://numeracja.uke.gov.pl/pl/ndin_tables"
+  },
+  {
+    "country": "PL",
+    "country_code": "48",
+    "vas_number_range": "703",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digits numbers; additional information available on website: https://numeracja.uke.gov.pl/pl/ndin_tables"
+  },
+  {
+    "country": "PL",
+    "country_code": "48",
+    "vas_number_range": "704",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digits numbers; additional information available on website: https://numeracja.uke.gov.pl/pl/ndin_tables"
+  },
+  {
+    "country": "PL",
+    "country_code": "48",
+    "vas_number_range": "708",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digits numbers; additional information available on website: https://numeracja.uke.gov.pl/pl/ndin_tables"
+  },
+  {
+    "country": "PL",
+    "country_code": "48",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digits numbers; additional information available on website: https://numeracja.uke.gov.pl/pl/ndin_tables"
+  },
+  {
+    "country": "PL",
+    "country_code": "48",
+    "vas_number_range": "801",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "9 digits numbers; additional information available on website: https://numeracja.uke.gov.pl/pl/ndin_tables"
+  },
+  {
+    "country": "PT",
+    "country_code": "351",
+    "vas_number_range": "601",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Audiotext service (general content). https://www.anacom.pt/render.jsp?contentId=1151642 "
+  },
+  {
+    "country": "PT",
+    "country_code": "351",
+    "vas_number_range": "607",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Audiotext service (voting). https://www.anacom.pt/render.jsp?contentId=1151642 "
+  },
+  {
+    "country": "PT",
+    "country_code": "351",
+    "vas_number_range": "608",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Audiotext services (sales). https://www.anacom.pt/render.jsp?contentId=1151642 "
+  },
+  {
+    "country": "PT",
+    "country_code": "351",
+    "vas_number_range": "646",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Audiotext services (contest and hobbies). https://www.anacom.pt/render.jsp?contentId=1151642 "
+  },
+  {
+    "country": "PT",
+    "country_code": "351",
+    "vas_number_range": "648",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "audiotext services (erotic). https://www.anacom.pt/render.jsp?contentId=1151642 "
+  },
+  {
+    "country": "PT",
+    "country_code": "351",
+    "vas_number_range": "707",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Universal acess service. https://www.anacom.pt/render.jsp?contentId=1497872"
+  },
+  {
+    "country": "PT",
+    "country_code": "351",
+    "vas_number_range": "708",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Universal acess service. https://www.anacom.pt/render.jsp?contentId=1497872"
+  },
+  {
+    "country": "PT",
+    "country_code": "351",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "PT",
+    "country_code": "351",
+    "vas_number_range": "808",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "https://www.anacom.pt/render.jsp?contentId=1497872"
+  },
+  {
+    "country": "PT",
+    "country_code": "351",
+    "vas_number_range": "809",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "https://www.anacom.pt/render.jsp?contentId=1497872"
+  },
+  {
+    "country": "PT",
+    "country_code": "351",
+    "vas_number_range": "760",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Flat rate tariff service"
+  },
+  {
+    "country": "PT",
+    "country_code": "351",
+    "vas_number_range": "761",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Flat rate tariff service. https://www.anacom.pt/render.jsp?contentId=442608"
+  },
+  {
+    "country": "PT",
+    "country_code": "351",
+    "vas_number_range": "762",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Flat rate tariff service. https://www.anacom.pt/render.jsp?contentId=442608"
+  },
+  {
+    "country": "RO",
+    "country_code": "40",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "RO",
+    "country_code": "40",
+    "vas_number_range": "801",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Shared costs numbers. Universal access numbers"
+  },
+  {
+    "country": "RO",
+    "country_code": "40",
+    "vas_number_range": "805",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Numbers for burst traffic services  "
+  },
+  {
+    "country": "RO",
+    "country_code": "40",
+    "vas_number_range": "808",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Numbers for indirect access to services "
+  },
+  {
+    "country": "RO",
+    "country_code": "40",
+    "vas_number_range": "900",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Miscellaneous information (general, business, marketing, utility-related etc.), entertainment, games and contests "
+  },
+  {
+    "country": "RO",
+    "country_code": "40",
+    "vas_number_range": "903",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Miscellaneous information (general, business, marketing, utility-related etc.), entertainment, games and contests "
+  },
+  {
+    "country": "RO",
+    "country_code": "40",
+    "vas_number_range": "906",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Adult entertainment "
+  },
+  {
+    "country": "RO",
+    "country_code": "40",
+    "vas_number_range": "118",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Directory enquiry service "
+  },
+  {
+    "country": "RO",
+    "country_code": "40",
+    "vas_number_range": "19",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Public interest services at a national level and general interest services"
+  },
+  {
+    "country": "SE",
+    "country_code": "46",
+    "vas_number_range": "900",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SE",
+    "country_code": "46",
+    "vas_number_range": "944",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SE",
+    "country_code": "46",
+    "vas_number_range": "939",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SE",
+    "country_code": "46",
+    "vas_number_range": "99",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "Mass call service"
+  },
+  {
+    "country": "SE",
+    "country_code": "46",
+    "vas_number_range": "77",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SE",
+    "country_code": "46",
+    "vas_number_range": "20",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SI",
+    "country_code": "386",
+    "vas_number_range": "80",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Different numbers have different tariffs. It is also not necessary for the end user to be able to call a value-added number while roaming."
+  },
+  {
+    "country": "SI",
+    "country_code": "386",
+    "vas_number_range": "90",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Different numbers have different tariffs. It is also not necessary for the end user to be able to call a value-added number while roaming."
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "900",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "97",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "98",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "85",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "86",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "87",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "881",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "882",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "883",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "884",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "885",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "886",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "887",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "889",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "country_code": "421",
+    "vas_number_range": "89",
+    "name_description": "Shared-Cost Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "IS",
+    "country_code": "354",
+    "vas_number_range": "800",
+    "name_description": "Freephone Numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "IS",
+    "country_code": "354",
+    "vas_number_range": "90",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": ""
+  },
+  {
+    "country": "IS",
+    "country_code": "354",
+    "vas_number_range": "18",
+    "name_description": "Premium-Rate numbers",
+    "roaming_tariff_information": "",
+    "additional_information": "Directory services"
+  },
+  {
+    "country": "IS",
+    "country_code": "354",
+    "vas_number_range": "17",
+    "name_description": "Other",
+    "roaming_tariff_information": "Local call",
+    "additional_information": "Public services, non-emergency"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "010",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. Council hotline"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "011",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. Traffic services&#039; hotline"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "012",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. Citizen information services"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "016",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. Freephone number. Gender violence hotline"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "017",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. Cyber delinquency  hotline"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "024",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. Freephone number. Suicidal Behaviour Hotline"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "060",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. General Government Administration"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "061",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. Health services&#039; hotline"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "062",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. Emergencies hotline"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "065",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. Freephone number. Pepople with dependency needs"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "080",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. Local Fire department hotline"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "085",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. Freephone number. Regional Fire department hotline"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "088",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. Freephone number. Regional police"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "091",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. National police"
+  },
+  {
+    "country": "ES",
+    "country_code": "34",
+    "vas_number_range": "092",
+    "name_description": "Other",
+    "roaming_tariff_information": "",
+    "additional_information": "3 digit short number. Local police"
+  }
+]

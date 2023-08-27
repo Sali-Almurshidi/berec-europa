@@ -1,0 +1,386 @@
+[
+  {
+    "country": "AT",
+    "pws_means_of_access": "App",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://www.bmi.gv.at/204/KATWARN/app.aspx",
+    "link_to_pws_download": "<a href=\"https://play.google.com/store/apps/details?id=at.gv.bmi.KATWARN\">https://play.google.com/store/apps/details?id=at.gv.bmi.KATWARN</a>",
+    "additional_information": "For German end users roaming in Austria, the German version of the Katwarn app must be used, download link: https://www.katwarn.de/anmeldung-app.php"
+  },
+  {
+    "country": "AT",
+    "pws_means_of_access": "App",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://www.bmi.gv.at/204/KATWARN/app.aspx",
+    "link_to_pws_download": "<a href=\"https://apps.apple.com/at/app/katwarn-%C3%B6sterreich-austria/id1244068413?l=en\">https://apps.apple.com/at/app/katwarn-%C3%B6sterreich-austria/id1244068413?l=en</a>",
+    "additional_information": "For German end users roaming in Austria, the German version of the Katwarn app must be used, download link: https://www.katwarn.de/anmeldung-app.php"
+  },
+  {
+    "country": "BE",
+    "pws_means_of_access": "",
+    "type_of_pws": "Location-based SMS",
+    "link_to_pws_description": "https://www.be-alert.be",
+    "link_to_pws_download": "",
+    "additional_information": "inscription is automatic as soon as a user (mobile phone) is active on the national territory, user will receive warning messages if location is within a defined area."
+  },
+  {
+    "country": "BE",
+    "pws_means_of_access": "",
+    "type_of_pws": "Location-based SMS",
+    "link_to_pws_description": "https://ibz.be/nl/veiligheid#links",
+    "link_to_pws_download": "",
+    "additional_information": "inscription is automatic as soon as a user (mobile phone) is active on the national territory, user will receive warning messages if location is within a defined area."
+  },
+  {
+    "country": "BE",
+    "pws_means_of_access": "",
+    "type_of_pws": "Other",
+    "link_to_pws_description": "https://www.be-alert.be",
+    "link_to_pws_download": "<a href=\"https://www.be-alert.be\">https://www.be-alert.be</a>",
+    "additional_information": "website available in dutch, french, german and english, a user can register his phone and email to receive targeted messages additional to messages of Location-based SMS system."
+  },
+  {
+    "country": "BG",
+    "pws_means_of_access": "",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": "the system is under construction"
+  },
+  {
+    "country": "CZ",
+    "pws_means_of_access": "This emergency service is accessible to every person with a mobile device present in the targeted location at the time of broadcast. Neither application download nor user registration of any kind is required.",
+    "type_of_pws": "Location-based SMS",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "DE",
+    "pws_means_of_access": "",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "DK",
+    "pws_means_of_access": "Emergency notifications, TV, radio,  social media accounts and sirens.  ",
+    "type_of_pws": "Other",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": "The Cell Broadcast System will be functioning from 1st March 2023"
+  },
+  {
+    "country": "ES",
+    "pws_means_of_access": "Warning notifications in a timely manner to mobile subscribers",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "https://www.interior.gob.es/opencms/gl/detalle/articulo/Interior-activa-el-Sistema-de-Avisos-a-la-Poblacion-ante-emergencias-o-catastrofe/",
+    "link_to_pws_download": "",
+    "additional_information": "Link 1"
+  },
+  {
+    "country": "ES",
+    "pws_means_of_access": "Warning notifications in a timely manner to mobile subscribers",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtUlJLEnNyUuNzMpMzSxKTgQr0w_Wj9KMyU1zLcvQjgxwj83zcI8uy83KLqozdA1NMi8yCA21t9Qtycx0BLOwE5g!!/",
+    "link_to_pws_download": "",
+    "additional_information": "Link 2"
+  },
+  {
+    "country": "FI",
+    "pws_means_of_access": "",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://112.fi/en/112-suomi-application",
+    "link_to_pws_download": "<a href=\"https://112.fi/en/112-suomi-application\">https://112.fi/en/112-suomi-application</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "FI",
+    "pws_means_of_access": "Public Warning Sirens",
+    "type_of_pws": "Other",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "FI",
+    "pws_means_of_access": "Radio/TV broadcast",
+    "type_of_pws": "Other",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "FR",
+    "pws_means_of_access": "",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "GR",
+    "pws_means_of_access": "Smartphones set to allow reception of CB alerts",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "<a href=\"https://civilprotection.gov.gr/112\">https://civilprotection.gov.gr/112</a>",
+    "additional_information": "Webpage of the Ministry for Climate Change and Civil Protection, with information about 112 and subscription form. CB is also enabled for roamers"
+  },
+  {
+    "country": "HR",
+    "pws_means_of_access": "mobile handsets",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "HR",
+    "pws_means_of_access": "mobile handsets",
+    "type_of_pws": "Location-based SMS",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "HR",
+    "pws_means_of_access": "",
+    "type_of_pws": "Other",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": "sirens, radio and TV stations"
+  },
+  {
+    "country": "HU",
+    "pws_means_of_access": "SMS",
+    "type_of_pws": "Location-based SMS",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": "Legislation (only in Hungarian language): https://njt.hu/eli/UT/2020/BM/16. Location based PWS SMS will be sent from the following numbers depending on the visited network: 1840 (short number), or +36705511200."
+  },
+  {
+    "country": "HU",
+    "pws_means_of_access": "VESZ Application",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://www.katasztrofavedelem.hu/37/vesz",
+    "link_to_pws_download": "<a href=\"https://play.google.com/store/apps/details?id=org.rsoe.android.bm_okf_push&amp;hl=hu\">https://play.google.com/store/apps/details?id=org.rsoe.android.bm_okf_push&amp;hl=hu</a>",
+    "additional_information": "For the use of the VESZ application: 1) no pre-registration is needed 2) the knowledge of Hungarian language is needed 3) further upgrade of the application for roamers is in progress"
+  },
+  {
+    "country": "HU",
+    "pws_means_of_access": "VESZ Application",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://www.katasztrofavedelem.hu/37/vesz",
+    "link_to_pws_download": "<a href=\"https://apps.apple.com/hu/app/v%C3%A9sz/id763455946\">https://apps.apple.com/hu/app/v%C3%A9sz/id763455946</a>",
+    "additional_information": "For the use of the VESZ application: 1) no pre-registration is needed 2) the knowledge of Hungarian language is needed 3) further upgrade of the application for roamers is in progress"
+  },
+  {
+    "country": "LI",
+    "pws_means_of_access": "Website &quot;Alert Swiss&quot;",
+    "type_of_pws": "Other",
+    "link_to_pws_description": "https://www.alert.swiss/en/home.html",
+    "link_to_pws_download": "",
+    "additional_information": "Liechtenstein is integrated into the swiss platform. Available in German, English, French, Italian"
+  },
+  {
+    "country": "LI",
+    "pws_means_of_access": "App &quot;Alert Swiss&quot;",
+    "type_of_pws": "App",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "<a href=\"https://apps.apple.com/ch/app/alertswiss/id957339177\">https://apps.apple.com/ch/app/alertswiss/id957339177</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "LI",
+    "pws_means_of_access": "App &quot;Alert Swiss&quot;",
+    "type_of_pws": "App",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "<a href=\"https://play.google.com/store/apps/details?id=ch.admin.babs.alertswiss\">https://play.google.com/store/apps/details?id=ch.admin.babs.alertswiss</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "LT",
+    "pws_means_of_access": "SMS",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/7cada65042bf11e59cf1cfda14b526c5 ",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LT",
+    "pws_means_of_access": "Public Warning Sirens",
+    "type_of_pws": "Other",
+    "link_to_pws_description": "https://lt72.lt/",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LU",
+    "pws_means_of_access": "N/A",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "LU",
+    "pws_means_of_access": "App",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://infocrise.public.lu/en/gouvalert.html",
+    "link_to_pws_download": "<a href=\"https://play.google.com/store/apps/details?id=lu.ctie.gouvalertlu\">https://play.google.com/store/apps/details?id=lu.ctie.gouvalertlu</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "LU",
+    "pws_means_of_access": "App",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://infocrise.public.lu/en/gouvalert.html",
+    "link_to_pws_download": "<a href=\"https://apps.apple.com/de/app/gouvalert-lu/id1299114216\">https://apps.apple.com/de/app/gouvalert-lu/id1299114216</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "LV",
+    "pws_means_of_access": "Messaging",
+    "type_of_pws": "Other",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": "SMS as a part of Public Warning in the case of the emergency situation. SMS (text provided by the services involved in solving of emergency situtation) is sent by the operators to their customers/abonents in case of the emergency situation. "
+  },
+  {
+    "country": "MT",
+    "pws_means_of_access": "Mobile",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "NL",
+    "pws_means_of_access": "Automatic",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "https://crisis.nl/nl-alert/english/",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "PL",
+    "pws_means_of_access": "Text messages (Alert RCB) sends information about the threat to mobile networks operators, who immediately forward it to their subscribers. Anyone who has a mobile phone switched on, if present within the emergency messaging area (the &quot;danger zone&quot;), will receive a short text message (SMS) informing about the type of threat.",
+    "type_of_pws": "Location-based SMS",
+    "link_to_pws_description": "https://www.gov.pl/web/rcb/alert-rcb---najwazniejsze-pytania-i-odpowiedzi",
+    "link_to_pws_download": "",
+    "additional_information": "Alert RCB â€“ SMS warning system, available for citizens in case of local threats."
+  },
+  {
+    "country": "PL",
+    "pws_means_of_access": "Available by downloading free of charge",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://www.gov.pl/web/mswia/regionalny-system-ostrzegania",
+    "link_to_pws_download": "<a href=\"https://play.google.com/store/apps/details?id=mswia.rso\">https://play.google.com/store/apps/details?id=mswia.rso</a>",
+    "additional_information": "System (RSO -Regionalny System Ostrzegania - Regional Warning System) for citizens in case of major emergencies is being developed. "
+  },
+  {
+    "country": "PL",
+    "pws_means_of_access": "Available by downloading free of charge",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://www.gov.pl/web/mswia/regionalny-system-ostrzegania",
+    "link_to_pws_download": "<a href=\"https://apps.apple.com/pl/app/regionalny-system-ostrzegania/id1326612339\">https://apps.apple.com/pl/app/regionalny-system-ostrzegania/id1326612339</a>",
+    "additional_information": "System (RSO -Regionalny System Ostrzegania - Regional Warning System) for citizens in case of major emergencies is being developed. "
+  },
+  {
+    "country": "PL",
+    "pws_means_of_access": "Available by downloading free of charge",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://www.gov.pl/web/mswia/regionalny-system-ostrzegania",
+    "link_to_pws_download": "<a href=\"https://apps.microsoft.com/store/detail/rso-regionalny-system-ostrzegania/9NQ6DRCFBCTN?hl=pl-pl&amp;gl=pl\">https://apps.microsoft.com/store/detail/rso-regionalny-system-ostrzegania/9NQ6D…</a>",
+    "additional_information": "System (RSO -Regionalny System Ostrzegania - Regional Warning System) for citizens in case of major emergencies is being developed. "
+  },
+  {
+    "country": "PT",
+    "pws_means_of_access": "N/A",
+    "type_of_pws": "Location-based SMS",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": "SMS warning system, available for citizens in case of local threats. Sent by the operators to their customers/roamers (in) in case of the emergency situation. "
+  },
+  {
+    "country": "RO",
+    "pws_means_of_access": "RO-ALERT system allows sending Cell Broadcast messages to warn and alert citizens in case of emergency, according to the legal provisions.",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "https://ro-alert.ro/en/about-ro-alert/",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "RO",
+    "pws_means_of_access": "DSU is the application developed by the Ministry of Internal Affairs for mobile phones with Android and iOS systems, able to receive alerts from traffic, weather or natural calamity warnings.",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://fiipregatit.ro/",
+    "link_to_pws_download": "<a href=\"https://play.google.com/store/apps/details?id=ro.iconsult.dsu\">https://play.google.com/store/apps/details?id=ro.iconsult.dsu</a>",
+    "additional_information": "The app is free of charge and can be downloaded to phones from Google Play and AppStore."
+  },
+  {
+    "country": "RO",
+    "pws_means_of_access": "DSU is the application developed by the Ministry of Internal Affairs for mobile phones with Android and iOS systems, able to receive alerts from traffic, weather or natural calamity warnings.",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://fiipregatit.ro/",
+    "link_to_pws_download": "<a href=\"https://apps.apple.com/ro/app/dsu/id1052761007\">https://apps.apple.com/ro/app/dsu/id1052761007</a>",
+    "additional_information": "The app is free of charge and can be downloaded to phones from Google Play and AppStore."
+  },
+  {
+    "country": "SE",
+    "pws_means_of_access": "",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://www.sosalarm.se/trygghet/112appen/",
+    "link_to_pws_download": "<a href=\"https://www.sosalarm.se/trygghet/112appen/\">https://www.sosalarm.se/trygghet/112appen/</a>",
+    "additional_information": ""
+  },
+  {
+    "country": "SE",
+    "pws_means_of_access": "",
+    "type_of_pws": "Location-based SMS",
+    "link_to_pws_description": "https://www.sosalarm.se/trygghet/viktigt-meddelande-till-allmanheten/",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SI",
+    "pws_means_of_access": "Web, Google Play Store, App Store",
+    "type_of_pws": "App",
+    "link_to_pws_description": "https://112opozorilo.sos112.si",
+    "link_to_pws_download": "",
+    "additional_information": "At the moment not available, following cyber attack. "
+  },
+  {
+    "country": "SI",
+    "pws_means_of_access": "PW with sirens",
+    "type_of_pws": "Other",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "SK",
+    "pws_means_of_access": "Civil defence warning signals sent out through sirens",
+    "type_of_pws": "Other",
+    "link_to_pws_description": "https://www.minv.sk/?varovanie-obyvatelstva-1",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "IS",
+    "pws_means_of_access": "SMS pushed to all phones connected to cells in the vicinity of an event.",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "",
+    "link_to_pws_download": "",
+    "additional_information": ""
+  },
+  {
+    "country": "IT",
+    "pws_means_of_access": "Public  ",
+    "type_of_pws": "Cell Broadcast",
+    "link_to_pws_description": "https://www.it-alert.gov.it",
+    "link_to_pws_download": "",
+    "additional_information": "IT-alert. The system uses the CAP (Common Alerting Protocol), in the Italian CAP-IT profile. The system can release the messages produced in an open format, always using other standard formats (json, rss), in order to be able in future  to re-launch the IT-alert messages also on digital motorway billboards, control rooms, television but also on social networks. The system is currently in an experimental and testing phase and pilot region tests have been organized and are being organised."
+  }
+]
